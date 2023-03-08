@@ -14,7 +14,7 @@ class _ChikooZindigiState extends State<ChikooZindigi> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Column(
-        children: const [Text('From zindigi package...'), Text('Hello world')],
+        children: const [Text('From zindigi package...'), Text('Hello world .......')],
       ),
     );
   }
